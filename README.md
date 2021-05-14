@@ -3,9 +3,9 @@ Designing a system for modeling and simulating the operation of the network - on
 
 NetSim is a program simulating net of nodes representing different components of a factory. It contains 3 types of nodes:
 
-*Ramps
-*Workers
-*Storages
+* Ramps
+* Workers
+* Storages
 
 An UML diagram of the simulated net:
 
